@@ -6,11 +6,11 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="mobile_example"/>
   <Description DefaultValue="A template to get started."/>
-  <IconUrl DefaultValue="https://polite-stone-02d09e20f.2.azurestaticapps.net/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://polite-stone-02d09e20f.2.azurestaticapps.net/assets/icon-128.png"/>
+  <IconUrl DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
-    <AppDomain>https://polite-stone-02d09e20f.2.azurestaticapps.net</AppDomain>
+    <AppDomain>https://happy-mud-070c82c0f.2.azurestaticapps.net</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://polite-stone-02d09e20f.2.azurestaticapps.net/taskpane.html"/>
+        <SourceLocation DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -102,14 +102,14 @@
               Replace these instances with the information of the web server that hosts your add-in's files. -->
           <Resources>
               <bt:Images>
-                  <bt:Image id="Icon.16x16" DefaultValue="https://polite-stone-02d09e20f.2.azurestaticapps.net/assets/icon-16.png"/>
-                  <bt:Image id="Icon.32x32" DefaultValue="https://polite-stone-02d09e20f.2.azurestaticapps.net/assets/icon-32.png"/>
-                  <bt:Image id="Icon.80x80" DefaultValue="https://polite-stone-02d09e20f.2.azurestaticapps.net/assets/icon-80.png"/>
+                  <bt:Image id="Icon.16x16" DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/assets/icon-16.png"/>
+                  <bt:Image id="Icon.32x32" DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/assets/icon-32.png"/>
+                  <bt:Image id="Icon.80x80" DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/assets/icon-80.png"/>
               </bt:Images>
               <bt:Urls>
-                  <bt:Url id="Commands.Url" DefaultValue="https://polite-stone-02d09e20f.2.azurestaticapps.net/commands.html"/>
-                  <bt:Url id="Taskpane.Url" DefaultValue="https://polite-stone-02d09e20f.2.azurestaticapps.net/taskpane.html"/>
-                  <bt:Url id="WebViewRuntime.Url" DefaultValue="https://polite-stone-02d09e20f.2.azurestaticapps.net/commands.html"/>
+                  <bt:Url id="Commands.Url" DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/commands.html"/>
+                  <bt:Url id="Taskpane.Url" DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/taskpane.html"/>
+                  <bt:Url id="WebViewRuntime.Url" DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/commands.html"/>
               </bt:Urls>
               <bt:ShortStrings>
                   <bt:String id="GroupLabel" DefaultValue="Event-based activation on mobile"/>
