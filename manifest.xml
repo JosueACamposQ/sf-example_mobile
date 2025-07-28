@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:mailappor="http://schemas.microsoft.com/office/mailappversionoverrides/1.0" xsi:type="MailApp">
   <Id>72f0ed4c-68c2-417a-b4bf-7777b875bc19</Id>
-  <Version>1.1.0.0</Version>
+  <Version>1.0.0.0</Version>
   <ProviderName>Contoso</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="mobile_example"/>
+  <DisplayName DefaultValue="test_mobile"/>
   <Description DefaultValue="A template to get started."/>
   <IconUrl DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://happy-mud-070c82c0f.2.azurestaticapps.net/assets/icon-128.png"/>
